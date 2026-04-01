@@ -18,7 +18,12 @@ from rag.retriever import build_retriever, build_vectorstore, delete_namespace
 from utils.pdf_parser import extract_text_from_pdf
 from utils.chunker    import chunk_pages
 
+
 load_dotenv()
+
+PINECONE_API_KEY = st.secrets.get("PINECONE_API_KEY", os.getenv("PINECONE_API_KEY"))
+PINECONE_INDEX_NAME = st.secrets.get("PINECONE_INDEX_NAME", os.getenv("PINECONE_INDEX_NAME"))
+GROQ_API_KEY = st.secrets.get("GROQ_API_KEY", os.getenv("GROQ_API_KEY"))
 
 st.set_page_config(
     page_title="Student Loan Assistant",
