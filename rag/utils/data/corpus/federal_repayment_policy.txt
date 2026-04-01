@@ -1,0 +1,170 @@
+SOURCE: Federal Student Aid (studentaid.gov) — Repayment Plans & Options
+URL: https://mohela.studentaid.gov | https://edfinancial.studentaid.gov | https://studentaid.gov
+SCRAPED: 2026-03-29
+DOC_TYPE: government_repayment_policy
+PUBLISHER: U.S. Department of Education / Federal Student Aid (FSA)
+========================================================
+
+IMPORTANT NOTICE (AS OF MARCH 2026)
+--------------------------------------
+On March 10, 2026, a court order ended the Saving on a Valuable Education (SAVE) Plan. The U.S. Department of Education is contacting impacted borrowers who can explore and apply for other repayment plans. Visit StudentAid.gov/courtactions for more information.
+
+On October 30, 2025, the U.S. Department of Education published final Public Service Loan Forgiveness (PSLF) program regulations effective July 1, 2026. No current impacts to borrowers, payment counts, or discharges. Visit StudentAid.gov/publicservice for more information.
+
+ELIGIBILITY: WHO QUALIFIES FOR FEDERAL STUDENT LOANS
+------------------------------------------------------
+Federal student loans are available to:
+- U.S. citizens
+- Eligible noncitizens (e.g., lawful permanent residents/Green Card holders)
+
+INTERNATIONAL STUDENTS (non-U.S. citizens who are not eligible noncitizens):
+- Are NOT eligible for federal student loans
+- Are NOT eligible for federal income-driven repayment (IDR) plans
+- Are NOT eligible for federal loan forgiveness programs (such as PSLF)
+- Must rely on private lenders for student loans (e.g., MPOWER, Prodigy Finance, Avanse for domestic Indian loans)
+
+WHAT IS FEDERAL STUDENT AID (FSA)?
+------------------------------------
+- FSA is the federal loan provider (U.S. Department of Education)
+- FSA uses servicers (private companies) to manage billing, questions, and payments
+- Servicers include: MOHELA, Edfinancial Services, Aidvantage, Nelnet, and others
+- The servicer manages the loan on behalf of FSA but FSA remains the lender/owner of the loan
+
+STANDARD REPAYMENT OVERVIEW
+-----------------------------
+- Federal student loan borrowers generally have up to 10 YEARS to repay
+- Extended repayment term available: up to 25 years (under certain plans)
+- Income-based repayment also available (see IDR plans below)
+- If eligible, a 6-month grace period applies after graduation or dropping below half-time enrollment
+- First payment typically due approximately six months after graduation or dropping to below half-time enrollment
+
+REPAYMENT PLANS AVAILABLE
+---------------------------
+
+1. STANDARD REPAYMENT PLAN
+   - Fixed monthly payments
+   - Repayment period: 10 years
+   - Generally the fastest way to pay off loans
+   - Results in less total interest paid over time
+
+2. GRADUATED REPAYMENT PLAN
+   - Payments start lower and gradually increase (typically every 2 years)
+   - Repayment period: up to 10 years
+   - Designed for borrowers whose income is expected to grow over time
+
+3. EXTENDED REPAYMENT PLAN
+   - Available to borrowers with more than $30,000 in Direct Loans
+   - Fixed or graduated payments
+   - Repayment period: up to 25 years
+   - Lower monthly payments but more interest paid over time
+
+4. INCOME-DRIVEN REPAYMENT (IDR) PLANS
+   Based on adjusted gross income (AGI), family size, and total federal student loan debt.
+   Monthly payments can be as low as $0 depending on income.
+
+   a. Income-Based Repayment (IBR):
+      - Must demonstrate financial need
+      - Calculated payment must be less than the Standard (10-year) plan payment
+      - Monthly payment: Reduced amount; caps at the 10-year Standard payment if income rises too high
+      - Can be used with the Public Service Loan Forgiveness (PSLF) program
+      - Remaining balance forgiven after qualifying repayment period (typically 20–25 years)
+
+   b. Pay As You Earn (PAYE):
+      - Must demonstrate financial need
+      - Calculated payment must be less than the Standard (10-year) plan payment
+      - Monthly payment: Reduced; caps at 10-year Standard plan payment
+      - Can be used with PSLF
+      - NOTE: As of July 1, 2027, borrowers who leave the PAYE Plan cannot re-enroll
+
+   c. Income-Contingent Repayment (ICR):
+      - Based on AGI, family size, and total federal student loan debt
+      - Monthly payments set at the lesser of: 20% of discretionary income OR a percentage of the Standard 12-year plan payment amount
+      - Parent PLUS Loans do NOT qualify for IDR plans; however, Parent PLUS loan borrowers may consolidate and request ICR
+      - NOTE: As of July 1, 2027, borrowers who leave the ICR Plan cannot re-enroll unless they have a Direct Consolidation Loan disbursed on or after July 1, 2006, which repaid a Direct Parent PLUS or FFEL Parent PLUS loan
+
+   d. SAVE Plan (Saving on a Valuable Education):
+      - ENDED by court order on March 10, 2026
+      - Impacted borrowers should explore other IDR options
+      - Visit StudentAid.gov/SAVE for more information
+
+   e. Income-Sensitive Repayment:
+      - Only for FFELP loans owned by the Department of Education
+      - More information at StudentAid.gov
+
+5. PUBLIC SERVICE LOAN FORGIVENESS (PSLF)
+   - For borrowers working for qualifying public service or non-profit employers
+   - Must make 120 qualifying monthly payments under an eligible repayment plan
+   - Available only to U.S. citizens and eligible noncitizens with federal loans
+   - NOT available to international students (who are not eligible for federal loans)
+   - Final PSLF regulations published October 30, 2025; effective July 1, 2026
+   - Apply using the PSLF Help Tool at StudentAid.gov/pslf
+   - For employer eligibility: StudentAid.gov/pslf/employer-search
+
+DEFERMENT AND FORBEARANCE
+--------------------------
+If unable to make federal student loan payments, temporary relief options include:
+
+DEFERMENT:
+- Temporarily postpones repayment
+- Available under certain qualifying circumstances (e.g., enrolled at least half-time, economic hardship, active military duty)
+- Interest may or may not accrue depending on loan type
+- Does not count negatively toward PSLF qualifying payments in most cases
+
+FORBEARANCE:
+- Temporarily reduces or postpones payments
+- Interest accrues during forbearance (on all loan types)
+- Can be discretionary (granted at servicer's discretion) or mandatory (required by law under certain conditions)
+- On August 1, 2025, interest began accruing on the SAVE Administrative Forbearance
+- Borrowers can leave forbearance by switching to an eligible repayment plan using Loan Simulator
+
+PSLF BUYBACK PROVISION:
+- Due to changes in PSLF regulations, borrowers can now "buy back" certain months of payment history to make them qualifying for PSLF
+- Only available if borrower already has 120 months of qualifying employment AND buying back months would result in forgiveness under PSLF or Temporary Expanded PSLF (TEPSLF)
+- Applicable to months that did not count because the borrower was in an ineligible deferment or forbearance status
+
+AUTO-PAY / AUTOMATIC DEBIT
+----------------------------
+- Servicers offer automatic debit payment programs (e.g., Edfinancial's Auto Pay, MOHELA's auto-debit)
+- Automatic debit deducts payments from checking or savings account each month
+- Some lenders/servicers offer interest rate discounts for enrolling in auto-pay (varies by servicer and loan type)
+
+CREDIT REPORTING
+-----------------
+- Loan information reported to the four nationwide consumer reporting agencies monthly
+- Each loan reported as one unique tradeline on the credit report
+- Loans reported as delinquent once 90 or more days past due
+- Servicers are NOT authorized to complete "goodwill requests" for credit updates per Federal Student Aid directive
+- More information: mohela.studentaid.gov/credit
+
+MAKING EXTRA PAYMENTS
+----------------------
+- Borrowers can make extra payments at any time through their online servicer account
+- Making small additional monthly payments reduces interest paid over time and shortens repayment period
+- Use the Loan Simulator to estimate how extra payments affect repayment time and interest
+
+LOAN SIMULATOR
+---------------
+- Available at StudentAid.gov via the Loan Simulator tool
+- Find out which repayment plans you're eligible for
+- See estimates for monthly and overall payments under each plan
+- Simulate the impact of extra payments
+
+IMPORTANT NOTES FOR INTERNATIONAL STUDENTS
+-------------------------------------------
+- International students are NOT eligible for federal student loans
+- International students are NOT eligible for federal income-driven repayment plans
+- International students are NOT eligible for Public Service Loan Forgiveness (PSLF)
+- International students should seek private lenders (MPOWER Financing, Prodigy Finance, Avanse, etc.)
+- Private lenders have their own repayment rules, grace periods, and deferment policies
+- MPOWER: 6-month grace period (interest-only payments during school + 6 months post-graduation)
+- Prodigy Finance: Reduced initial payments followed by full repayment based on the specific loan agreement
+
+CONTACT / RESOURCES
+--------------------
+- Federal Student Aid website: StudentAid.gov
+- Court actions updates: StudentAid.gov/courtactions
+- PSLF program: StudentAid.gov/publicservice
+- Loan Simulator: Available through StudentAid.gov
+- MOHELA servicer: mohela.studentaid.gov
+- Edfinancial servicer: edfinancial.studentaid.gov | Phone: 855-337-6884
+- Aidvantage servicer: aidvantage.studentaid.gov

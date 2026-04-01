@@ -1,0 +1,223 @@
+SOURCE: USCIS & Study in the States (DHS) — OPT and CPT Policy for F-1 Students
+URL 1: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students
+URL 2: https://studyinthestates.dhs.gov/students/work/applying-for-practical-training
+SCRAPED: 2026-03-29
+DOC_TYPE: visa_immigration_work_authorization
+PUBLISHER: U.S. Citizenship and Immigration Services (USCIS) | U.S. Department of Homeland Security (DHS)
+========================================================
+
+OVERVIEW
+--------
+The United States allows eligible international F-1 students and new graduates the opportunity to gain on-the-job training that supplements knowledge gained in their studies. To participate in practical training opportunities, students do NOT need to change their nonimmigrant student status. Instead, students must work with their Designated School Official (DSO) and often with USCIS to ensure eligibility and apply for proper authorization.
+
+F-1 students may choose from:
+1. Curricular Practical Training (CPT)
+2. Optional Practical Training (OPT)
+3. STEM OPT Extension (24-month extension for qualifying STEM degree holders)
+
+KEY DEFINITIONS
+---------------
+- DSO: Designated School Official — the school's authorized representative who manages SEVIS records and recommends practical training
+- SEVIS: Student and Exchange Visitor Information System — the U.S. government database tracking F and M student visa holders
+- EAD: Employment Authorization Document — the physical document issued by USCIS that authorizes work
+- Form I-20: Certificate of Eligibility for Nonimmigrant Student Status — issued by DSO
+- Form I-765: Application for Employment Authorization — filed with USCIS for OPT (not required for CPT)
+
+=======================================================
+CURRICULAR PRACTICAL TRAINING (CPT)
+=======================================================
+
+WHAT IS CPT?
+------------
+CPT is an alternative work/study, internship, cooperative education, or any other type of required internship or practicum that a sponsoring employer offers through cooperative agreements with the student's college or university.
+
+CPT is ONLY available for F-1 students when it is an integral part of an established curriculum within the school. CPT can be part-time or full-time and is NOT restricted by a weekly 20-hour work limit.
+
+ELIGIBILITY FOR CPT
+-------------------
+- Must be an F-1 student
+- Must have been enrolled on a full-time basis for one full academic year at a SEVP-certified school (exceptions exist)
+- CPT must be an integral part of the established curriculum (required for the degree, not optional)
+- Must be authorized by the DSO for a specific employer before starting work
+- Must directly relate to the student's field of study
+
+KEY CPT FACTS
+-------------
+- CPT does NOT require filing Form I-765 with USCIS — the DSO authorizes CPT directly
+- Part-time CPT (less than 20 hours per week) does NOT affect OPT eligibility
+- Full-time CPT (20+ hours per week) for 12 months or more ELIMINATES OPT eligibility at that education level
+  - One year or more of full-time CPT = NO OPT available at the same degree level
+- The DSO issues an updated Form I-20 showing the CPT authorization for the specific employer and dates
+- Work can begin on or after the CPT start date listed on the Form I-20
+
+CPT APPLICATION STEPS
+---------------------
+Step 1: Follow your school's processes to submit a CPT request to your DSO
+Step 2: Your DSO confirms eligibility, authorizes CPT for a specific employer, issues and signs the Form I-20
+Step 3: You may begin work on or after the CPT start date listed on the Form I-20, while maintaining your F-1 status
+(Note: No Form I-765 required for CPT — this is a key difference from OPT)
+
+=======================================================
+OPTIONAL PRACTICAL TRAINING (OPT)
+=======================================================
+
+WHAT IS OPT?
+------------
+Optional Practical Training (OPT) is temporary employment that is directly related to an F-1 student's major area of study. Eligible students can apply for up to 12 months of OPT employment authorization.
+
+OPT is available in two forms:
+1. Pre-completion OPT (before finishing academic studies)
+2. Post-completion OPT (after finishing academic studies)
+
+Important: All periods of pre-completion OPT are deducted from the available period of post-completion OPT.
+
+12 months of OPT is available for EACH higher level of study:
+- Example: 12 months of OPT for a bachelor's degree + another 12 months for a master's degree
+
+PRE-COMPLETION OPT
+-------------------
+- Available after being lawfully enrolled full-time for one full academic year at a SEVP-certified school
+- The "one full academic year" requirement can be met even if the student had another nonimmigrant status during that time (F-1 status is not required for the full year)
+- Work authorization: Up to 20 hours per week while school is in session; full-time when school is NOT in session
+- Pre-completion OPT impacts the amount of time available for post-completion OPT at the same degree level:
+  - 1 year of part-time (20 hrs/week) pre-completion OPT → reduces post-completion OPT by 6 months (50%)
+  - 1 year of full-time (40 hrs/week) pre-completion OPT → reduces post-completion OPT by 1 year (100%) — leaving zero post-completion OPT available
+
+POST-COMPLETION OPT
+--------------------
+- Available after completing academic studies
+- Work authorization: At least 20 hours per week (part-time) or full-time (no upper hour limit while working)
+- Must report employer information to DSO or through the SEVP Portal when hired
+- Must report any changes in name or address to DSO or through the SEVP Portal within 10 days
+
+OPT WORK HOUR REQUIREMENTS
+----------------------------
+- Pre-completion: Maximum 20 hours per week during school sessions; full-time during breaks
+- Post-completion: Minimum 20 hours per week; can work full-time
+
+OPT ELIGIBILITY
+---------------
+- Must be an F-1 student in valid status
+- Must have been lawfully enrolled full-time for one full academic year
+- OPT must directly relate to your major area of study
+- Must be admitted to an eligible school
+- Must work with DSO to get the OPT recommended in SEVIS and the Form I-20 endorsed
+
+OPT APPLICATION STEPS (PRE OR POST-COMPLETION)
+------------------------------------------------
+Step 1: Follow your school's processes to submit an OPT request to your DSO
+Step 2: Your DSO confirms eligibility, enters the recommendation in SEVIS, issues and signs the Form I-20
+Step 3: You sign the Form I-20 and file Form I-765 (Application for Employment Authorization) with USCIS
+
+For Pre-completion OPT:
+- File after DSO enters recommendation in SEVIS
+- May file up to 90 days before completing one full academic year (cannot start OPT until one full academic year is complete)
+
+For Post-completion OPT:
+- File after DSO enters recommendation in SEVIS
+- May file up to 90 days before completing your degree, but NO LATER than 60 days after completing your degree
+- Must file within 30 days after DSO enters the OPT recommendation in SEVIS
+- You may NOT begin OPT until USCIS approves Form I-765 and the EAD is received with the start date
+
+OPT APPLICATION TIMELINE
+-------------------------
+- One year after full-time studies begin: First date that OPT can be requested by DSO
+- 90 days before Program End Date: Earliest date Form I-765 may be properly filed for post-completion OPT
+- Program End Date: Last possible date for pre-completion OPT to end
+- 60 days after Program End Date: Last date DSO can recommend post-completion OPT; last date to file Form I-765 with USCIS; latest possible start date for post-completion OPT
+- 14 months after Program End Date: Last date by which all post-completion OPT must be completed
+
+OPT STATUS: TRANSFERRING TO A DIFFERENT SCHOOL OR EDUCATION LEVEL
+-------------------------------------------------------------------
+- If you transfer to another school OR begin a higher level of study (e.g., completing a bachelor's and starting a master's), your authorization to engage in OPT automatically terminates
+- SEVP informs USCIS of the termination date; USCIS terminates the EAD accordingly
+- F-1 status itself is NOT affected as long as you maintain student status
+- WORKING on a terminated EAD is a serious violation: consequences include removal from the U.S. and reentry bars
+- Working without authorization can also lead to accrual of unlawful presence
+
+CAP-GAP EXTENSION
+-----------------
+- If you are an F-1 student with a timely filed H-1B petition and change of status request, and your F-1 status and employment authorization will expire before the H-1B change of status occurs (typically Oct. 1), you may be eligible for a cap-gap extension
+- Visit USCIS's Cap-Gap Extension page for more information
+
+=======================================================
+STEM OPT EXTENSION (24-MONTH EXTENSION)
+=======================================================
+
+WHAT IS STEM OPT?
+-----------------
+A 24-month extension of post-completion OPT for qualifying F-1 students with STEM degrees.
+
+STEM OPT ELIGIBILITY REQUIREMENTS
+-----------------------------------
+To qualify for a STEM OPT extension, you must:
+1. Be an F-1 student who received a STEM degree included on the STEM Designated Degree Program List (available as PDF from DHS)
+2. Be employed by an employer who is enrolled in and is USING E-Verify
+3. Have received an initial grant of post-completion OPT employment authorization based on your STEM degree
+
+STEM OPT APPLICATION STEPS
+----------------------------
+Step 1: Submit a completed Form I-983 (Training Plan for STEM OPT Students) to your DSO for every new employment/training experience during STEM OPT extension. The employer must be enrolled in E-Verify.
+Step 2: DSO confirms eligibility, authorizes the STEM OPT extension, issues and signs the Form I-20
+Step 3: You sign the Form I-20 and the Form I-765
+Step 4: File Form I-765 with USCIS after DSO enters recommendation in SEVIS; must file before current OPT EAD expires but may file up to 90 days in advance; must file within 60 days of DSO recommendation
+Step 5: If USCIS approves, an EAD is issued for the 24-month extension
+
+STEM OPT AUTOMATIC EXTENSION DURING PENDING APPLICATION
+--------------------------------------------------------
+- If you file your STEM OPT extension application ON TIME and your OPT period expires while the extension application is still pending with USCIS, your employment authorization is AUTOMATICALLY extended for 180 days
+- This automatic 180-day extension ceases once USCIS adjudicates your STEM OPT extension application
+- Forms I-765 received on or after the post-completion OPT expiration date will be DENIED (no automatic extension applies)
+
+STEM OPT APPLICATION TIMELINE
+------------------------------
+- Before Post-Completion OPT End Date: May file Form I-765 for STEM extension no more than 90 days before current OPT expiration
+- Post-Completion OPT End Date: LAST date to properly file Form I-765 for the 24-month STEM OPT extension
+- Day after Post-Completion OPT End Date: First date of employment authorization for the 24-month extension if USCIS received Form I-765 before the OPT end date (even if still pending)
+
+ONGOING REQUIREMENTS DURING STEM OPT
+--------------------------------------
+- Report to your DSO within 10 days any changes in name or address
+- Report to your DSO any employer/employment information changes
+- Submit self-evaluations to your DSO at the 12-month mark from the STEM extension start date
+- Submit a concluding self-evaluation at the end of any STEM OPT employment period (regardless of duration)
+
+=======================================================
+PRACTICAL TRAINING FOR M-1 STUDENTS
+=======================================================
+(Note: Different from F-1 students; M-1 is for vocational/non-academic students)
+
+- M-1 students may only participate in ONE type of paid training with an employer (called "practical training")
+- Must directly relate to the program of study
+- May only participate AFTER the program ends
+- Employment authorization granted at a rate of 1 month for each 4 months of full-time study completed
+- Maximum total: 6 months of practical training
+- Requires filing Form I-765 with USCIS (unlike F-1 CPT)
+- Start date: Day after program end date (at the earliest); latest start is 30 days after program end date
+- Application must be filed before the Program End Date but not more than 90 days before
+
+=======================================================
+IMPACT OF CPT/OPT ON LOAN ELIGIBILITY (CONTEXT FOR LENDERS)
+=======================================================
+The following is context that lenders and students should understand regarding CPT/OPT and financial aid:
+
+1. CPT and OPT are WORK AUTHORIZATION programs — they allow F-1 students to work legally in the U.S.
+2. Working on CPT or OPT means the student earns income, which can affect their ability to repay loans
+3. CPT/OPT status does NOT by itself make a student eligible or ineligible for private student loans
+4. MPOWER Financing specifically accounts for future earning potential (including likely post-graduation OPT employment) in its loan decisions
+5. Full-time CPT for 12+ months can ELIMINATE OPT eligibility — this may affect future earning capacity and should be considered when planning loan repayment
+6. If OPT/STEM OPT is terminated due to school transfer or change in education level, the student loses employment authorization — this could affect repayment ability
+7. Students should notify private lenders of any changes in their work authorization status if required by loan terms
+
+=======================================================
+CONTACT AND RESOURCES
+=======================================================
+- USCIS OPT page: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students
+- Study in the States (DHS): https://studyinthestates.dhs.gov
+- Practical Training Guide: https://studyinthestates.dhs.gov/students/work/applying-for-practical-training
+- STEM OPT extension: https://www.uscis.gov (search STEM OPT)
+- STEM Designated Degree Program List: Available as PDF on USCIS.gov
+- Form I-765: Application for Employment Authorization — filed with USCIS for OPT
+- Form I-983: Training Plan for STEM OPT Students — submitted to DSO
+- Cap-Gap Extension: https://www.uscis.gov (search Cap-Gap Extension)
+- USCIS Policy Manual: Available at USCIS.gov (includes detailed OPT policy)

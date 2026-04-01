@@ -1,0 +1,150 @@
+SOURCE: Compiled Cross-Reference — International Student Loan Lender Comparison
+COMPILED: 2026-03-29
+DOC_TYPE: lender_comparison
+PURPOSE: RAG corpus comparison document for the AI loan assistant
+========================================================
+
+This document compares the three primary lenders in this corpus: Avanse Financial Services, MPOWER Financing, and Prodigy Finance. It is intended to help the AI assistant answer comparison questions accurately.
+
+=======================================================
+COLLATERAL REQUIREMENT
+=======================================================
+Avanse:       NO collateral required for many loan amounts. Collateral may be required for very high loan amounts or specific profiles. When collateral is provided, it can enable higher amounts or different pricing.
+MPOWER:       NO collateral required. Ever. This is a core feature of the MPOWER product.
+Prodigy Finance: NO collateral required (standard product). This is a core feature of the standard Prodigy Finance product.
+
+=======================================================
+COSIGNER REQUIREMENT
+=======================================================
+Avanse:       YES — a co-borrower (parent, legal guardian, sibling, or other blood relative) is required. The co-borrower is the primary debtor.
+MPOWER:       NO cosigner required. MPOWER is specifically designed to give loans without requiring a U.S. cosigner or collateral.
+Prodigy Finance: NO cosigner required (standard product). Optional co-signer product available only for eligible Indian students.
+
+=======================================================
+INTEREST RATE TYPE
+=======================================================
+Avanse:       Floating (variable) rate. Formula: Avanse Base Rate + Spread. Current Base Rate: 14.55% (WEF 01.12.2024). Student-friendly rate starts at 9.99%.
+MPOWER:       Fixed rate. As low as 9.99% (10.89% APR). Rate includes 0.25% discount for auto-pay enrollment.
+Prodigy Finance: Variable rate. Starting from 9.97%. Representative APR: 12.15% variable. Made up of fixed margin + benchmark rate (e.g., SOFR).
+
+=======================================================
+LOAN AMOUNTS
+=======================================================
+Avanse:       Up to Rs. 1.25 Crores (approximately USD 150,000). Loan in Indian Rupees for Indian students.
+MPOWER:       Minimum US$2,001 per academic period. Maximum US$50,000 per academic period. Lifetime limit: US$100,000.
+Prodigy Finance: Aligned to school-certified Cost of Attendance (CoA). No specific cap stated beyond CoA; representative example: USD 40,000 borrowed.
+
+=======================================================
+ELIGIBLE BORROWERS
+=======================================================
+Avanse:       Indian citizens aged 18+, studying in India or abroad, with confirmed admission to an approved institution.
+MPOWER:       International students from 150+ countries of citizenship, attending 500+ eligible U.S. and Canadian schools. No U.S. credit history or cosigner needed.
+Prodigy Finance: International postgraduate (master's level) students from 120+ countries, studying at 1,500+ supported schools worldwide.
+
+=======================================================
+STUDY DESTINATION
+=======================================================
+Avanse:       India and abroad (USA, UK, Australia, Canada, France, Germany, New Zealand, Singapore, UAE, others)
+MPOWER:       U.S. or Canada only (must attend an MPOWER-eligible school)
+Prodigy Finance: Worldwide (U.S., UK, Germany, France, Canada, Australia, and others at 1,500+ schools)
+
+=======================================================
+LOAN LEVEL (UNDERGRADUATE / GRADUATE)
+=======================================================
+Avanse:       Graduate, post-graduate, or job-oriented professional/technical courses. Also undergraduate.
+MPOWER:       Both undergraduate and graduate students at eligible schools (junior, senior year or graduate students for U.S. schools; must be within 2 years of graduating)
+Prodigy Finance: Primarily postgraduate (master's level) students
+
+=======================================================
+REPAYMENT / GRACE PERIOD
+=======================================================
+Avanse:       Moratorium = course duration + 3 to 6 months. Can start paying interest during the course to reduce later EMIs.
+MPOWER:       Interest-only payments during school AND for 6 months after graduation. Full repayment begins after the 6-month grace period. Repayment term: approximately 10 years.
+Prodigy Finance: Reduced payment (USD 100/month) for first 30 months (in-school + initial post-grad period). Full repayment (USD 573.36/month example) for remaining 150 months. Total: 180 months (15 years).
+
+=======================================================
+PREPAYMENT PENALTY
+=======================================================
+Avanse:       Not explicitly stated; check sanction letter
+MPOWER:       NO prepayment penalty — explicitly stated
+Prodigy Finance: NO prepayment penalty — explicitly stated
+
+=======================================================
+PROCESSING TIME / SANCTION SPEED
+=======================================================
+Avanse:       As fast as 3 days for loan sanction
+MPOWER:       Conditional loan offer potentially within days; check eligibility in 30 seconds online
+Prodigy Finance: Non-binding provisional offer valid for 14 days; final confirmation requires document verification and matching
+
+=======================================================
+PROCESSING FEES
+=======================================================
+Avanse:       One-time processing fee (small percentage of sanction amount or flat fee; detailed in sanction letter)
+MPOWER:       No explicit processing fee mentioned (rates include the 0.25% auto-pay discount in the stated APR)
+Prodigy Finance: USD 500 processing fee (paid after accepting the offer; only upfront fee required)
+
+=======================================================
+VISA SUPPORT LETTER
+=======================================================
+Avanse:       Provides loan documentation for university admission and visa processes
+MPOWER:       Provides FREE visa support letters as part of its services; loan acceptance letters can be used as proof of funds
+Prodigy Finance: Loan offer letters can be used as proof of financial readiness for visa applications
+
+=======================================================
+PROOF OF FUNDS ACCEPTED?
+=======================================================
+Avanse:       Yes — sanction letter and documentation provided for visa and enrollment
+MPOWER:       Yes — MPOWER explicitly states loan acceptance letters are accepted by many universities and immigration authorities as valid proof of funds
+Prodigy Finance: Yes — Prodigy Finance loan offer letters can be used as proof of financial readiness
+
+=======================================================
+CREDIT BUILDING
+=======================================================
+Avanse:       Timely repayment builds credit history in India. Delay or default negatively impacts credit score of student and co-applicants.
+MPOWER:       Builds U.S. credit history through on-time payments — explicitly a core benefit
+Prodigy Finance: Not explicitly mentioned in scraped content
+
+=======================================================
+CPT / OPT IMPACT ON LOAN ELIGIBILITY
+=======================================================
+Avanse:       CPT/OPT are U.S.-specific work authorizations. Avanse is an Indian lender; CPT/OPT status does not directly affect loan eligibility with Avanse, but income from CPT/OPT can help repayment.
+MPOWER:       MPOWER explicitly acknowledges that international F-1 students can work up to 20 hours on campus and that OPT/CPT are available for off-campus work. MPOWER models future earning potential (including likely OPT employment). CPT/OPT status does not make a student ineligible for an MPOWER loan.
+Prodigy Finance: Prodigy Finance models future earning potential. CPT/OPT work authorization does not make a student ineligible for a Prodigy Finance loan. Students working on OPT post-graduation have income to support repayment.
+
+=======================================================
+REFINANCING AVAILABLE?
+=======================================================
+Avanse:       Yes — top-up after fresh assessment possible
+MPOWER:       Yes — MPOWER offers refinancing for international students without requiring a cosigner
+Prodigy Finance: Not explicitly detailed in scraped content
+
+=======================================================
+FEDERAL LOANS ALTERNATIVE
+=======================================================
+IMPORTANT: International students (non-U.S. citizens who are not eligible noncitizens) are NOT eligible for U.S. federal student loans. They are also NOT eligible for:
+- Federal income-driven repayment plans (IBR, PAYE, SAVE, ICR)
+- Public Service Loan Forgiveness (PSLF)
+- Any other federal student aid programs
+
+Private lenders (Avanse, MPOWER, Prodigy Finance) are the primary options for international students.
+
+=======================================================
+SUMMARY TABLE: QUICK REFERENCE
+=======================================================
+
+Feature                  | Avanse              | MPOWER              | Prodigy Finance
+-------------------------|---------------------|---------------------|----------------------
+Collateral required      | Sometimes           | Never               | Never (standard)
+Cosigner required        | Yes (co-borrower)   | Never               | Never (standard)
+Interest rate type       | Variable (floating) | Fixed               | Variable
+Rate starts at           | 9.99%               | 9.99% (10.89% APR)  | 9.97% (12.15% APR rep.)
+Max loan amount          | Rs. 1.25 Cr (~$150K)| US$100K lifetime    | CoA-aligned
+Study destination        | India + Abroad      | U.S. or Canada only | 1,500+ schools globally
+Eligible study level     | UG + PG             | UG + PG             | Primarily PG (master's)
+Eligible nationalities   | Indian citizens     | 150+ countries      | 120+ countries
+Repayment grace period   | Course + 3-6 months | 6 months post-grad  | ~30 months reduced pay
+Prepayment penalty       | Not specified       | None                | None
+Processing fee           | Small % of amount   | None stated         | USD 500 upfront
+Visa support letter      | Yes                 | Yes (free)          | Yes
+U.S. credit building     | No (India-based)    | Yes                 | Not specified
+No-cosigner loan         | No                  | Yes                 | Yes

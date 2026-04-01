@@ -1,0 +1,211 @@
+SOURCE: Prodigy Finance - International Student Loan Policy
+URL: https://prodigyfinance.com/student-loans | https://prodigyfinance.com/resources/blog/international-student-loans-usa/
+SCRAPED: 2026-03-29
+LENDER: Prodigy Finance Limited
+COMPANY NUMBER (UK): 05912562
+REGISTERED ADDRESS: 85 Great Portland Street, London, W1W 7LT
+FCA REGISTRATION: Firm registration number 709641
+U.S. AFFILIATE: Prodigy Finance Servicing, LLC — NMLS #2155440 | 333 Las Olas Way, CU4 Suite #426, Fort Lauderdale, Florida 33301
+DOC_TYPE: loan_policy_faq
+========================================================
+
+COMPANY OVERVIEW
+----------------
+Prodigy Finance is an international student loan provider founded in 2007. It offers loans to postgraduate international students without requiring collateral or a co-signer (for most eligible profiles). Prodigy Finance assesses loan eligibility based on the student's FUTURE EARNING POTENTIAL rather than past credit history or local credit scores.
+
+Prodigy Finance supports applicants from 120+ countries and has partnered with 1,500+ schools worldwide. Loans are offered to eligible borrowers and governed by English law.
+
+CONTACT:
+- Mon–Fri: 6am–10pm GMT | 1am–5pm EST
+- Email: info@prodigyfinance.com
+- UK phone: (+44) 0800 368 8766
+- US phone: (+1) 866 533 3304
+
+LOAN FEATURES
+-------------
+- Loan type: Variable-rate private student loan
+- Target borrowers: International postgraduate (master's level) students
+- No collateral required (standard product)
+- No co-signer required (standard product)
+- Optional co-signer product available for eligible Indian students (designed to enhance affordability)
+- Interest rate: Starting from 9.97% per annum
+- Representative APR: 12.15% variable
+  - Based on total credit amount of USD 41,680 (USD 40,000 borrowed + 4.2% admin fee)
+  - Repayable over 180 months
+  - Variable interest rate: 11.07% (7.4% fixed margin + 3.67% variable benchmark component)
+  - Initial monthly repayments: USD 100 (first 30 months)
+  - Subsequent monthly repayments: USD 573.36 (remaining 150 months)
+  - Total interest payable: USD 64,525.66
+  - Total amount payable: USD 106,205.66
+- Processing fee: USD 500 (paid after accepting the offer; the only upfront fee required)
+- Loan amount: Aligned to school-certified Cost of Attendance (CoA)
+- Funds sent directly to school (Prodigy Finance pays the university, not the student)
+
+INTEREST RATE STRUCTURE
+------------------------
+- Variable interest rate (can move up or down with market conditions)
+- Made up of two components:
+  1. Fixed margin: Based on the student's profile and stays constant over the loan
+  2. Benchmark rate: A market rate (e.g., SOFR – Secured Overnight Financing Rate) that fluctuates
+- APR (Annual Percentage Rate): Reflects the all-inclusive cost of borrowing, including interest AND mandatory fees
+- When comparing lenders, use APR (not just the stated interest rate) and read the representative example
+
+REPAYMENT TERMS
+---------------
+- Repayments begin after a grace period (after program completion + grace window)
+- Initial in-school period: Reduced payment of USD 100/month for the first 30 months (includes in-school and initial post-graduation period)
+- Full repayment: USD 573.36/month for the remaining 150 months
+- Total repayment period: 180 months (15 years) in the representative example
+- No prepayment penalties (you can repay faster if you want to reduce interest over time)
+- Co-signer product (Indian students): Includes in-school payments designed to reduce the amount that accrues, lowering the total cost over time
+- Federal loans and federal income-driven repayment plans: NOT available to most international students; these are restricted to U.S. citizens and eligible noncitizens
+
+ELIGIBLE EXPENSES (WHAT LOAN COVERS)
+--------------------------------------
+Loan amount aligned to the school's Cost of Attendance (CoA), which includes:
+- Tuition and mandatory fees
+- Living expenses (housing, food, local transport)
+- Books, supplies, health insurance, and required equipment
+- Other school-certified costs
+Funds are paid directly to the university. The school confirms the CoA and enrolment.
+
+WHO IS ELIGIBLE
+---------------
+- Must be enrolled in (or admitted to) an eligible postgraduate programme at a supported school
+- Must plan to study outside home country
+- Must be from a supported country (Prodigy Finance supports applicants from 120+ countries)
+- Must maintain satisfactory academic progress once enrolled
+- Prodigy Finance assesses future earning potential based on programme and school outcomes (not local credit score)
+- International students typically cannot access U.S. federal student loans
+
+SCHOOL AND COUNTRY SUPPORT
+---------------------------
+- 1,500+ schools supported worldwide
+- 120+ countries of citizenship supported
+- Key study destinations: United States, United Kingdom, Germany, France, Canada, Australia
+- Home regions served: India, Africa, Asia, Latin America (among others)
+- Check school eligibility at: prodigyfinance.com (school search tool)
+
+OPTIONAL CO-SIGNER PRODUCT (INDIAN STUDENTS)
+----------------------------------------------
+- Prodigy Finance offers an optional co-signer product specifically for eligible Indian students
+- Designed to enhance affordability and lower total cost over the loan term
+- Includes in-school payments designed to reduce accruing interest
+- Compare the projected total cost and monthly payments over the full term if considering this option
+- Standard product (no co-signer) remains available for all eligible applicants
+
+APPLICATION PROCESS (STEP BY STEP)
+------------------------------------
+Step 1: Apply online
+- Register an account on Prodigy Finance
+- Submit applications for any supported schools
+- Eligibility check verifies: Is the university supported? Is the study country supported? Is the applicant from a supported country?
+- Provisional quote available even before program acceptance (proof of admission required before finalising the loan)
+
+Step 2: Get your offer
+- Receive a non-binding provisional offer valid for 14 days
+- Offer is personalised based on profile, programme, and chosen school
+- Rate can vary based on student's profile, programme, and school
+
+Step 3: Document verification
+- Accept your offer and upload supporting documents
+- If successfully verified, you will be matched to available funding (called "matching")
+
+Step 4: Loan confirmation
+- Once funding is allocated, accept the offer and pay the USD 500 processing fee to finalise the loan
+- The USD 500 processing fee is the only upfront fee required
+
+Step 5: Complete final steps (after arriving on campus)
+- Monitor your Prodigy dashboard and emails for additional tasks needed before finalising the loan agreement
+
+Step 6: Sign your loan agreement
+- Sign the loan agreement digitally once on campus
+- Funds are then sent directly to the school
+
+DOCUMENTS CHECKLIST
+--------------------
+- Passport and recent photo
+- University offer letter or I-20 details (for U.S. schools)
+- Academic transcripts and degree certificates
+- Details of savings, scholarships, or family support
+- Visa documentation (when available)
+
+HOW VARIABLE INTEREST RATES WORK
+----------------------------------
+- Fixed margin: Set based on profile, stays the same throughout the loan
+- Benchmark rate: Based on a market rate such as SOFR; can move up or down with market conditions
+- Total rate = Fixed margin + Benchmark rate
+- APR shows the all-in cost of borrowing including interest AND mandatory fees
+- When rates go up, your total interest cost increases; when they go down, your total interest cost decreases
+
+COLLATERAL AND CO-SIGNER POLICY
+---------------------------------
+- Standard product: NO collateral required, NO co-signer required
+- Eligibility is assessed based on the student's profile, programme, and future earning potential
+- Optional co-signer product available for eligible Indian students
+
+PROOF OF FUNDS FOR VISA
+------------------------
+- Prodigy Finance loan offer letters can be used as proof of financial readiness for visa applications
+- The loan funds being sent directly to the school simplifies payments and helps demonstrate financial readiness for the visa process
+
+REPAYMENT PLANNING TIPS
+------------------------
+- Borrow only what you need (map tuition, rent, food, health insurance, arrival costs)
+- Compare APRs and fees, not just interest rates
+- Plan for the first 3 to 6 months after graduation (job hunting and relocation buffer)
+- Use early repayments: Even small voluntary payments during study can reduce total cost
+- If eligible for co-signer option (Indian students), compare projected total cost and monthly payments over the full term
+
+COMPARISON: FEDERAL VS PRIVATE LOANS (FOR INTERNATIONAL STUDENTS)
+-------------------------------------------------------------------
+Federal loans:
+- Generally NOT available to international students who are not "eligible noncitizens"
+- Income-driven repayment plans and federal forgiveness programmes do NOT apply to international students in most cases
+
+Private loans (Prodigy Finance):
+- Available to international students
+- No collateral or co-signer required at supported schools
+- Assessed on school/programme outcomes and future earning potential
+- Variable interest rate (APR reflects all costs including fees)
+
+FREQUENTLY ASKED QUESTIONS (FAQ)
+----------------------------------
+
+Q: Who is eligible for a Prodigy Finance student loan?
+A: International postgraduate students admitted to supported programmes at eligible schools. Prodigy Finance supports students from 120+ countries. Eligibility is based on future earning potential, not local credit history.
+
+Q: What are the loan repayment terms?
+A: Repayments begin after a grace period following program completion. The representative example shows initial payments of USD 100/month for 30 months, followed by USD 573.36/month for 150 months (180 months total / 15 years). No prepayment penalties apply.
+
+Q: Can I apply without a co-signer or collateral?
+A: Yes. The standard Prodigy Finance product requires NO co-signer and NO collateral. Eligibility is assessed based on your profile, programme, and the earning potential associated with your chosen school and degree.
+
+Q: Can I repay my loan early?
+A: Yes. There are no prepayment penalties. Making early payments (even during school) can reduce your total cost.
+
+Q: Does Prodigy Finance pay me or my school?
+A: Prodigy Finance sends funds directly to your school (university), not to you personally. The school confirms your cost of attendance and enrolment first.
+
+Q: When should I apply for the UK Student visa?
+A: This depends on the specific visa process for the UK; consult official government guidance. Prodigy Finance provides general guidance but is not authorised to provide immigration advice.
+
+Q: How early can I apply for a US student visa?
+A: This depends on U.S. immigration rules; consult official government guidance. Prodigy Finance provides general guidance but is not authorised to provide immigration advice.
+
+Q: When can I apply for OPT?
+A: OPT (Optional Practical Training) is a U.S.-specific immigration work authorisation. Consult USCIS for detailed eligibility and timing. Prodigy Finance provides general guidance but is not an immigration adviser.
+
+Q: What happens if my visa expires while I'm in the US?
+A: This is an immigration matter. Consult USCIS or a qualified immigration attorney immediately.
+
+Q: When should I apply for a study permit in Canada?
+A: This depends on Canadian immigration processing timelines. Consult IRCC (Immigration, Refugees and Citizenship Canada) for official guidance.
+
+DISCLAIMER
+----------
+Loan and promotion offers are subject to eligibility, funding, and credit assessment criteria. Loan amounts are subject to cost of attendance limits set by schools. Representative APR 12.15% variable.
+
+The purpose of guidance provided by Prodigy Finance is to give prospective students a general overview of international student visa processes and should not be regarded as legal or immigration advice, or as a substitute for official guidance from government authorities, embassies, or consular offices. Prodigy Finance Limited is not authorised to provide immigration services and cannot offer personalised visa advice or assistance.
+
+© Prodigy Finance Limited 2007-2026. All Rights Reserved.

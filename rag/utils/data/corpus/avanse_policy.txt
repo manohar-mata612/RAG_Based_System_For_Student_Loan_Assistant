@@ -1,0 +1,175 @@
+SOURCE: Avanse Financial Services - Education Loan Policy
+URL: https://www.avanse.com/education-loan
+SCRAPED: 2026-03-29
+LENDER: Avanse Financial Services
+DOC_TYPE: loan_policy_faq
+========================================================
+
+OVERVIEW
+--------
+An education loan in India provides a flexible way to fund higher education. A student loan in India covers tuition fees, hostel and living costs, laboratory and library charges, the purchase of books and devices, exam fees, insurance, and other related expenses.
+
+Instead of exhausting savings, a study loan spreads costs over time, aligning repayment with early-career earnings. Most lenders disburse directly to the university as per fee tranches, reducing the risk of missing deadlines. Repayment happens through EMIs after a moratorium, which is usually the entire course period, plus an additional three to six months.
+
+Lenders consider: offer letter, institution's status and reputation, course type, and co-applicant's financial profile.
+
+LOAN FEATURES
+-------------
+- Maximum loan amount: Up to Rs. 1.25 Crores (approximately USD 150,000)
+- Processing time: As quick as 3 days for sanction
+- Cost coverage: 100% of tuition, living expenses, and equipment such as a laptop
+- Interest rate: Starting at 9.99% per annum (student-friendly)
+- Base Lending Rate (BLR): 14.55% (effective 01.12.2024)
+- Rate formula: Interest Rate = Avanse Base Rate + Spread
+- Rate type: Floating in nature; calculated using Simple Interest Rate with Monthly rest
+- No collateral required for many loan amounts
+- Global reach: Financing for universities across leading international study destinations
+- Countries supported: USA, UK, Australia, Canada, France, Germany, New Zealand, Singapore, UAE, India, and others
+
+LOAN AMOUNT COVERAGE
+--------------------
+The education loan amount typically includes:
+- Tuition fees and living expenses
+- Insurance premium (if any)
+- Other Value-Added Services (VAS) availed by the student (if any)
+- Legal charges (if any)
+- Other charges, fees, or costs (subject to terms and conditions)
+
+REPAYMENT OPTIONS
+-----------------
+- Choose to repay interest during the course (partial repayment during moratorium)
+- Or start full repayments only after the moratorium period
+- Moratorium period = course duration + 3 to 6 months grace period
+- EMI auto-debit via NACH (National Automated Clearing House) mandate
+- Payment options: Auto-debit/standing instructions, online portal payments/NEFT, UPI (where available)
+
+MORATORIUM PERIOD
+-----------------
+The moratorium period is usually the entire course period plus an additional three to six months. Students can start making small repayments towards their interest amount while studying, which helps manage EMIs more easily later.
+
+ELIGIBILITY CRITERIA - FOR STUDENTS
+-------------------------------------
+- Must be an Indian citizen aged 18 or above
+- Should have confirmed admission to a recognised institute before the final loan disbursal
+- Can apply for graduate, post-graduate, or job-oriented professional/technical courses
+- Courses and institutes must be approved by Avanse
+
+ELIGIBILITY CRITERIA - FOR CO-BORROWERS
+-----------------------------------------
+- Must be an Indian citizen
+- Must be a parent, legal guardian, sibling, or other blood relative of the applicant
+- Should have a stable income and a bank account in India that allows them to sign cheques
+- Will be considered the primary debtor for the educational loan
+
+DOCUMENTS REQUIRED
+------------------
+For Applicant (Student):
+- Valid photo ID (e.g., Aadhaar, Passport, Driver's License)
+- Proof of residence
+- Date of birth proof
+- Academic records (mark sheets, certificates)
+- Proof of admission
+- Fee structure from the institution
+- Additional documents (if applicable)
+
+For Co-Applicant:
+- Valid photo ID
+- Proof of residence
+- Date of birth proof
+- Income proof (salary slips, ITR, Form 16)
+- Bank statements for the last 8 months
+- Proof of relationship with the applicant
+- Additional documents (if applicable)
+
+For Collateral (if applicable):
+- Property documents
+- Insurance papers
+- Fixed deposit receipts
+
+APPLICATION PROCESS
+-------------------
+Step 1: Apply online – fill out the online application form with basic details, preferred study destination, admission status, and loan amount required.
+Step 2: Connect with Avanse Team – a representative will reach out to guide through eligibility checks.
+Step 3: Submit Documents – provide admission letter, KYC, academic records, and co-applicant's financial details.
+Step 4: Sanction and Disbursal – receive sanction letter within days; funds disbursed directly to university as per fee schedule.
+
+COLLATERAL POLICY
+-----------------
+- Collateral is an asset pledged as security (property or fixed deposits)
+- Collateral can enable higher loan amounts or different pricing
+- Avanse offers high loan amounts WITHOUT collateral for eligible profiles
+- Non-collateral options available, but loan amounts may be limited
+- Rs. 20 lakh education loan without collateral is possible depending on co-applicant profile, chosen course and institution, and lender's policy
+- Lenders typically offer higher amounts for students pursuing courses perceived to lead to high-paying jobs and good job security
+
+PROCESSING FEES
+---------------
+- One-time processing fee for evaluating the application, underwriting, and setting up the facility
+- Typically applied during sanction or before the first disbursal
+- Usually a small percentage of the sanction amount or a flat fee (depends on policy at time of approval)
+- Full transparency – no hidden charges
+- Schedule of Charges available at: https://www.avanse.com/schedule-of-charges
+- Interest Rate Policy available at: https://www.avanse.com/pdf/corporate-governance/Interest%20Rate%20Policy%20-%20Avanse-21-Jan-2025%20-%20For%20Update.pdf
+
+CREDIT SCORE IMPACT
+-------------------
+- Any delay in paying the EMI or non-repayment of the loan may have a direct negative impact on credit score
+- Impact applies to both student and co-applicants
+- Avanse is required to report loan repayment status to credit bureaus in accordance with regulatory guidelines
+- High credit score implies good credit/financial history
+- Timely repayment builds a strong credit history
+
+NACH MANDATE
+------------
+- NACH (National Automated Clearing House) mandate: secure authorisation allowing Avanse to automatically collect monthly EMIs from the bank account on the due date
+- Registering NACH ensures worry-free repayment without manual effort
+- NACH mandate can be changed to a different bank account by emailing wecare@avanse.com
+
+FREQUENTLY ASKED QUESTIONS (FAQ)
+----------------------------------
+
+Q: What is an education loan?
+A: An education loan helps fund tuition and approved study expenses such as hostel, library, books, devices, and insurance. You receive funds now and repay later via EMIs after a moratorium. Avanse helps structure EMIs that fit the initial salary range.
+
+Q: How does an education loan work?
+A: When you apply for an education loan, your lender finances your course upfront. You promise to pay the lender later, through EMIs, as per an agreed-upon schedule.
+
+Q: Who is eligible for a student loan?
+A: Indian citizens above the age of 18 who have confirmed admission to a recognised institute for an approved course can apply.
+
+Q: Can a student get an education loan?
+A: Yes. Students with confirmed admission and the required documentation can apply. Having a financially strong co-applicant will strengthen the application. Apply early to avoid delays.
+
+Q: Can I get a 100% education loan?
+A: Yes, especially for recognised courses and strong profiles. It depends on policy, institution, and documents.
+
+Q: Does an education loan require collateral?
+A: Not always. Most lenders offer non-collateral loan options; however, they may limit the amount you can borrow without security.
+
+Q: Who will repay an education loan?
+A: The borrower and co-applicant are jointly responsible for repaying loans. EMIs are usually deducted from the co-applicant's account until the borrower begins earning.
+
+Q: When do I need to start repaying an education loan?
+A: Usually after the moratorium – the course duration plus a grace period of around three to six months. The exact dates are outlined in the sanction letter.
+
+Q: Can the education loan amount be increased?
+A: Often, yes. A top-up may be available after fresh assessment and revised fee letters. Approval depends on eligibility at that time.
+
+Q: Does an education loan cover living expenses?
+A: Often yes, within the sanctioned limits. Usually, hostel costs, meal plans, insurance, and travel are approved items. Check the sanction letter for inclusions.
+
+Q: How long does it take to get an education loan approved?
+A: With complete documents, approval can arrive within three days. If offering collateral, the lender may require more time to verify security and paperwork.
+
+IMPACT STATISTICS (as of scrape date)
+--------------------------------------
+- 64,000+ students supported
+- 1,750+ institutes in the network
+- 51 countries covered
+
+CONTACT & RESOURCES
+--------------------
+- Website: https://www.avanse.com
+- Email for NACH changes: wecare@avanse.com
+- Schedule of Charges: https://www.avanse.com/schedule-of-charges
+- Interest Rate Policy: https://www.avanse.com/pdf/corporate-governance/Interest%20Rate%20Policy%20-%20Avanse-21-Jan-2025%20-%20For%20Update.pdf
