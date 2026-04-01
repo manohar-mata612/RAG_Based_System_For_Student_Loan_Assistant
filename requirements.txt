@@ -3,6 +3,7 @@ groq==0.15.0
 langchain==0.3.19
 langchain-community==0.3.18
 langchain-huggingface==0.1.2
+langchain-pinecone==0.1.1
 pinecone-client==5.0.1
 sentence-transformers==3.4.1
 pypdf==5.3.1
